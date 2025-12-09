@@ -14,9 +14,9 @@ When updating resources via API (PUT / PATCH), multipart/form-data with files of
 
 ## ✅ What You’ll Learn / Benefit
 
-- Why standard PUT/PATCH + multipart/form-data fails in PHP/Laravel :contentReference[oaicite:0]{index=0}  
-- How to fix it (spoof HTTP method, use POST + `_method`) and ensure file data reaches backend properly :contentReference[oaicite:1]{index=1}  
-- Best practices for file validation and secure storage (file type, size, MIME checking, storage location) :contentReference[oaicite:2]{index=2}  
+- Why standard PUT/PATCH + multipart/form-data fails in PHP/Laravel  
+- How to fix it (spoof HTTP method, use POST + `_method`) and ensure file data reaches backend properly 
+- Best practices for file validation and secure storage (file type, size, MIME checking, storage location) 
 - Example code and request setup for APIs accepting uploads + other fields  
 
 ---
